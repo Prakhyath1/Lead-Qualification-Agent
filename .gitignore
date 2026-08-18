@@ -1,0 +1,23 @@
+# Environment variables & secrets (CRITICAL: Do not commit)
+.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Temporary scratch files
+scratch/
+models.json
+models.txt

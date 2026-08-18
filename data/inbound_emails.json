@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EM-001",
+    "subject": "Urgent: Enterprise Demo & Security Review for TechFlow",
+    "sender": "Sarah Jenkins <sjenkins@techflow.io>",
+    "body": "Hi Sales Team,\n\nI'm Sarah Jenkins, VP of Engineering at TechFlow Inc. (around 750 employees). We are currently auditing our inbound lead processing stack as our contract with our legacy vendor ends next month. We need a reliable, API-first AI agent that can parse unstructured lead data and integrate into our custom CRM.\n\nWe have an approved $80k annual budget and would like to schedule a technical discovery call this week with your solution architect.\n\nBest,\nSarah Jenkins\nVP of Engineering, TechFlow Inc."
+  },
+  {
+    "id": "EM-002",
+    "subject": "General inquiry about pricing",
+    "sender": "Mike Ross <mike@cornerstonebakery.local>",
+    "body": "Hello, I run a small local bakery with 4 employees. I saw your post on social media about automation. Do you have a free plan or cheap app to help manage local delivery orders? I don't really have a budget right now, just exploring.\n\nThanks,\nMike"
+  },
+  {
+    "id": "EM-003",
+    "subject": "Inquiry regarding SOC-2 Compliance and Enterprise Tier",
+    "sender": "Elena Rodriguez <elena.rodriguez@fintrustbank.com>",
+    "body": "Dear Enterprise Team,\n\nI am the Head of Enterprise Automation at FinTrust National Bank (10k+ headcount). We attended your recent AI governance webinar and downloaded your compliance whitepaper. We are exploring AI lead qualification systems for our commercial banking division starting Q4. We need to initiate vendor security assessment.\n\nCould you send over your SOC-2 Type II report and standard enterprise terms?\n\nSincerely,\nElena Rodriguez"
+  },
+  {
+    "id": "EM-004",
+    "subject": "Series C Scaling - Need immediate sales automation",
+    "sender": "Samantha Wright <swright@nexuscloud.io>",
+    "body": "Hey team,\n\nSamantha Wright here, COO at Nexus B2B SaaS (1,200 employees). Following our Series C announcement, our inbound form submissions have spiked 400%, and our sales reps are dropping qualified deals because qualification takes too long manually.\n\nWe have approved executive budget ready to deploy within 7 days. Can we jump on a 20-minute call tomorrow at 10 AM EST?\n\nBest,\nSamantha"
+  },
+  {
+    "id": "EM-005",
+    "subject": "Question about API",
+    "sender": "student99@bu.edu",
+    "body": "Hi, I am an undergraduate student doing a research project on AI agents. Is there a way to get 10,000 free API credits for academic benchmarking?\n\nThanks!"
+  }
+]

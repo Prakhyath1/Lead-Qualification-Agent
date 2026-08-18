@@ -1,0 +1,958 @@
+[
+  {
+    "id": "L-017",
+    "name": "Samantha Wright",
+    "company": "Nexus B2B SaaS Group",
+    "company_size": "1000-5000",
+    "job_title": "Chief Operating Officer (COO)",
+    "industry": "B2B SaaS / Enterprise Cloud",
+    "email": "swright@nexuscloud.io",
+    "intent_signals": "Direct email to sales@ asking for an emergency meeting regarding lead leakages in current sales funnel.",
+    "notes": "Experiencing 4x inbound surge after Series C funding; reps overwhelmed.",
+    "budget_status": "Approved Series C growth budget ($150k+)",
+    "timeline": "Immediate (Within 7 days)",
+    "fit_score": 50,
+    "intent_score": 48,
+    "total_score": 98,
+    "tier": "HOT",
+    "next_action": "Assign to an Account Executive for an immediate discovery call; send calendar invite within the next hour and prepare a custom demo focused on sales funnel optimization.",
+    "rationale": "Fit scores are maxed out due to enterprise size, C‑level authority, and Tier 1 industry alignment. Intent scores are also near‑maximum because of a high‑intent outreach, urgent timeline, and confirmed budget. The combined total of 98 places the lead in the HOT tier, warranting immediate executive engagement.",
+    "evaluation": {
+      "fit_score": 50,
+      "intent_score": 48,
+      "total_score": 98,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 15,
+        "seniority_score": 20,
+        "industry_fit_score": 15,
+        "fit_summary": "The prospect is an enterprise‑level organization (1,000+ employees) with a C‑level decision maker (COO) and operates in a Tier 1 ICP (B2B SaaS/Enterprise Cloud), matching all high‑value fit criteria."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 23,
+        "urgency_timeline_score": 15,
+        "budget_readiness_score": 10,
+        "intent_summary": "The lead sent a direct email requesting an emergency meeting (high‑intent signal), has an immediate 7‑day timeline, and possesses an approved $150k+ Series C budget, indicating strong purchase intent."
+      },
+      "key_positive_signals": [
+        "Emergency meeting request via direct email",
+        "Approved $150k+ Series C growth budget",
+        "Immediate 7‑day implementation timeline",
+        "4x inbound surge after Series C funding"
+      ],
+      "red_flags": [],
+      "rationale": "Fit scores are maxed out due to enterprise size, C‑level authority, and Tier 1 industry alignment. Intent scores are also near‑maximum because of a high‑intent outreach, urgent timeline, and confirmed budget. The combined total of 98 places the lead in the HOT tier, warranting immediate executive engagement.",
+      "next_action": "Assign to an Account Executive for an immediate discovery call; send calendar invite within the next hour and prepare a custom demo focused on sales funnel optimization.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-007",
+    "name": "Priya Sharma",
+    "company": "Krypton Cyber Defense",
+    "company_size": "500-1000",
+    "job_title": "Chief Technology Officer (CTO)",
+    "industry": "Cybersecurity / Enterprise Software",
+    "email": "psharma@kryptoncyber.io",
+    "intent_signals": "Requested technical architecture walkthrough via enterprise sales form.",
+    "notes": "Replacing an in-house tool that failed to scale. Strong developer and executive buy-in.",
+    "budget_status": "Pre-approved budget ($100k+)",
+    "timeline": "Immediate (Within 30 days)",
+    "fit_score": 47,
+    "intent_score": 48,
+    "total_score": 95,
+    "tier": "HOT",
+    "next_action": "Assign to an Account Executive for an immediate discovery call; prepare a custom architectural demo and security documentation tailored to Krypton Cyber Defense.",
+    "rationale": "The lead scores strongly on both fit and intent. The organization size places it in the high‑value mid‑market bracket, the CTO role ensures decision‑making authority, and the cybersecurity industry is a core target. Intent signals are compelling: a direct request for a technical demo, an urgent 30‑day timeline, and an approved budget exceeding $100k. No disqualifying factors are present, resulting in a total score of 95, which classifies the lead as HOT and warrants immediate AE engagement.",
+    "evaluation": {
+      "fit_score": 47,
+      "intent_score": 48,
+      "total_score": 95,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 12,
+        "seniority_score": 20,
+        "industry_fit_score": 15,
+        "fit_summary": "Mid‑Market company (~500‑1000 employees) aligns well with target scale, CTO provides C‑level authority, and cybersecurity is a Tier 1 ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 23,
+        "urgency_timeline_score": 15,
+        "budget_readiness_score": 10,
+        "intent_summary": "Requested a technical architecture walkthrough (high‑intent), immediate implementation window, and a pre‑approved $100k+ budget."
+      },
+      "key_positive_signals": [
+        "C‑level (CTO) requesting a technical walkthrough",
+        "Immediate timeline (≤30 days)",
+        "Pre‑approved $100k+ budget",
+        "High‑intent engagement via enterprise sales form"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores strongly on both fit and intent. The organization size places it in the high‑value mid‑market bracket, the CTO role ensures decision‑making authority, and the cybersecurity industry is a core target. Intent signals are compelling: a direct request for a technical demo, an urgent 30‑day timeline, and an approved budget exceeding $100k. No disqualifying factors are present, resulting in a total score of 95, which classifies the lead as HOT and warrants immediate AE engagement.",
+      "next_action": "Assign to an Account Executive for an immediate discovery call; prepare a custom architectural demo and security documentation tailored to Krypton Cyber Defense.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-005",
+    "name": "Amanda Chen",
+    "company": "Apex Global Logistics",
+    "company_size": "1000-5000",
+    "job_title": "Chief Revenue Officer (CRO)",
+    "industry": "Logistics & Supply Chain",
+    "email": "a.chen@apexgl.com",
+    "intent_signals": "Submitted contact form with message: 'Need to automate and qualify inbound sales pipeline urgently across our 3 regional hubs.'",
+    "notes": "Direct executive sponsor. Seeking solution deployment before next sales kickoff.",
+    "budget_status": "Approved executive budget ($120k)",
+    "timeline": "Immediate (Within 2 weeks)",
+    "fit_score": 47,
+    "intent_score": 43,
+    "total_score": 90,
+    "tier": "HOT",
+    "next_action": "Assign to an Account Executive to schedule a discovery call within the next hour, prepare a customized logistics‑focused demo and ROI model, and send a pre‑call brief to the CRO.",
+    "rationale": "The lead scores highly on both fit (enterprise size, C‑level authority, relevant industry) and intent (explicit urgent request, approved budget, short timeline). With a total score of 90, it falls into the HOT tier, warranting immediate AE engagement.",
+    "evaluation": {
+      "fit_score": 47,
+      "intent_score": 43,
+      "total_score": 90,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 15,
+        "seniority_score": 20,
+        "industry_fit_score": 12,
+        "fit_summary": "Enterprise‑scale logistics firm with 1,000+ employees, C‑level decision maker, and Tier 2 industry alignment—all strong matches to the ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 18,
+        "urgency_timeline_score": 15,
+        "budget_readiness_score": 10,
+        "intent_summary": "Submitted a targeted contact form requesting urgent pipeline automation, indicating clear buying intent; immediate 2‑week deployment timeline; approved $120k budget."
+      },
+      "key_positive_signals": [
+        "CRO as direct sponsor",
+        "Approved $120k executive budget",
+        "Immediate 2‑week implementation timeline",
+        "Enterprise size (1,000+ employees)",
+        "Logistics industry – Tier 2 ICP"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores highly on both fit (enterprise size, C‑level authority, relevant industry) and intent (explicit urgent request, approved budget, short timeline). With a total score of 90, it falls into the HOT tier, warranting immediate AE engagement.",
+      "next_action": "Assign to an Account Executive to schedule a discovery call within the next hour, prepare a customized logistics‑focused demo and ROI model, and send a pre‑call brief to the CRO.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-001",
+    "name": "Sarah Jenkins",
+    "company": "TechFlow Inc.",
+    "company_size": "500-1000",
+    "job_title": "VP of Engineering",
+    "industry": "Software & Cloud Infrastructure",
+    "email": "sjenkins@techflow.io",
+    "intent_signals": "Requested a live enterprise product demo, visited pricing page 5 times in the last 48 hours.",
+    "notes": "Current contract with legacy vendor expires in 45 days. Needs API-first automated workflow integration.",
+    "budget_status": "Approved ($80k/yr allocated)",
+    "timeline": "Immediate (Within 30 days)",
+    "fit_score": 44,
+    "intent_score": 46,
+    "total_score": 90,
+    "tier": "HOT",
+    "next_action": "Route to an Account Executive for an immediate discovery call and schedule a technical demo within the next hour.",
+    "rationale": "Fit is strong across size, seniority, and industry, yielding 44/50. Intent is equally strong with high‑intent actions, urgent timeline, and confirmed budget, resulting in 46/50. The combined score of 90 places the lead in the HOT tier, warranting immediate AE engagement.",
+    "evaluation": {
+      "fit_score": 44,
+      "intent_score": 46,
+      "total_score": 90,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 11,
+        "seniority_score": 19,
+        "industry_fit_score": 14,
+        "fit_summary": "TechFlow is a mid‑market organization (~500‑1000 employees) aligning well with our target scale, the VP of Engineering holds senior decision‑making authority, and the software/cloud infrastructure industry is a Tier 1 ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 23,
+        "urgency_timeline_score": 14,
+        "budget_readiness_score": 9,
+        "intent_summary": "The prospect requested a live enterprise demo and visited the pricing page multiple times, indicating high purchase intent; the contract expiration creates an immediate 30‑day timeline, and an approved $80k budget confirms financial readiness."
+      },
+      "key_positive_signals": [
+        "Requested live enterprise product demo",
+        "Pricing page visited 5 times in 48h",
+        "Immediate timeline (contract expires in 45 days)",
+        "Approved $80k annual budget"
+      ],
+      "red_flags": [],
+      "rationale": "Fit is strong across size, seniority, and industry, yielding 44/50. Intent is equally strong with high‑intent actions, urgent timeline, and confirmed budget, resulting in 46/50. The combined score of 90 places the lead in the HOT tier, warranting immediate AE engagement.",
+      "next_action": "Route to an Account Executive for an immediate discovery call and schedule a technical demo within the next hour.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-009",
+    "name": "Rachel Zane",
+    "company": "OmniRetail Global",
+    "company_size": "5000-10000",
+    "job_title": "VP of Digital Transformation",
+    "industry": "E-commerce & Retail Tech",
+    "email": "rzane@omniretail.com",
+    "intent_signals": "Booked an executive discovery call on Calendly, attended live demo session.",
+    "notes": "Board-mandated digital modernization initiative across omnichannel operations.",
+    "budget_status": "Fully secured digital transformation grant ($250k)",
+    "timeline": "Immediate (Within 30 days)",
+    "fit_score": 42,
+    "intent_score": 48,
+    "total_score": 90,
+    "tier": "HOT",
+    "next_action": "Assign to an Account Executive for immediate outreach; schedule a technical discovery call, prepare a customized architecture demo and security documentation tailored to OmniRetail Global's digital transformation goals.",
+    "rationale": "With a strong enterprise fit (42/50) and very high intent signals (48/50), the lead scores 90/100, placing it in the HOT tier. No disqualifying factors are present, so the lead should be handed off to an Account Executive immediately for a deep‑dive discovery and custom demo preparation.",
+    "evaluation": {
+      "fit_score": 42,
+      "intent_score": 48,
+      "total_score": 90,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 15,
+        "seniority_score": 20,
+        "industry_fit_score": 7,
+        "fit_summary": "OmniRetail Global is a large enterprise (5,000‑10,000 employees) matching the top company‑size tier, the prospect holds a VP title giving direct budget authority, and the e‑commerce & retail‑tech sector aligns with our Tier 3 adjacent ICP, providing a solid but not top‑tier industry fit."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 23,
+        "urgency_timeline_score": 15,
+        "budget_readiness_score": 10,
+        "intent_summary": "The lead booked an executive discovery call and attended a live demo, indicating high‑intent engagement. The initiative is board‑mandated with an immediate 30‑day timeline, and a fully secured $250k grant confirms budget readiness."
+      },
+      "key_positive_signals": [
+        "Executive discovery call booked",
+        "Attended live demo session",
+        "Board‑mandated digital modernization initiative",
+        "Fully secured $250k transformation grant"
+      ],
+      "red_flags": [],
+      "rationale": "With a strong enterprise fit (42/50) and very high intent signals (48/50), the lead scores 90/100, placing it in the HOT tier. No disqualifying factors are present, so the lead should be handed off to an Account Executive immediately for a deep‑dive discovery and custom demo preparation.",
+      "next_action": "Assign to an Account Executive for immediate outreach; schedule a technical discovery call, prepare a customized architecture demo and security documentation tailored to OmniRetail Global's digital transformation goals.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-015",
+    "name": "Dr. Aris Thorne",
+    "company": "BioVanguard Pharmaceuticals",
+    "company_size": "5000-10000",
+    "job_title": "VP of Informatics & Technology",
+    "industry": "Biotech & Pharmaceuticals",
+    "email": "athorne@biovanguard.com",
+    "intent_signals": "Visited enterprise security portal 4 times, requested custom SLA documentation.",
+    "notes": "Evaluating compliant LLM workflow tooling for clinical research data screening.",
+    "budget_status": "Multi-year enterprise budget allocated",
+    "timeline": "3-6 months",
+    "fit_score": 47,
+    "intent_score": 37,
+    "total_score": 84,
+    "tier": "HOT",
+    "next_action": "Route to an Account Executive for an immediate discovery call; prepare a custom technical demo of compliant LLM workflow tooling for clinical research, include security architecture overview and SLA documentation.",
+    "rationale": "The lead scores highly on both fit (47/50) and intent (37/50), resulting in a total of 84, which places it in the HOT tier. The prospect’s seniority, firm size, industry relevance, strong engagement signals, and confirmed budget make it a priority for immediate AE outreach.",
+    "evaluation": {
+      "fit_score": 47,
+      "intent_score": 37,
+      "total_score": 84,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 15,
+        "seniority_score": 20,
+        "industry_fit_score": 12,
+        "fit_summary": "Enterprise‑scale pharma company (5k‑10k employees) matches our target size, VP‑level decision maker with budget authority, and operates in a Tier 2 healthcare‑adjacent industry, yielding a strong fit."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 22,
+        "urgency_timeline_score": 6,
+        "budget_readiness_score": 9,
+        "intent_summary": "Repeated visits to the enterprise security portal and a request for custom SLA documentation indicate high buying intent; timeline of 3‑6 months is medium‑term, and a multi‑year enterprise budget is already allocated."
+      },
+      "key_positive_signals": [
+        "Multiple security‑portal visits",
+        "Requested custom SLA documentation",
+        "VP‑level authority",
+        "Allocated multi‑year budget"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores highly on both fit (47/50) and intent (37/50), resulting in a total of 84, which places it in the HOT tier. The prospect’s seniority, firm size, industry relevance, strong engagement signals, and confirmed budget make it a priority for immediate AE outreach.",
+      "next_action": "Route to an Account Executive for an immediate discovery call; prepare a custom technical demo of compliant LLM workflow tooling for clinical research, include security architecture overview and SLA documentation.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-013",
+    "name": "Jessica Pearson",
+    "company": "Pearson & Partners Legal Advisory",
+    "company_size": "200-500",
+    "job_title": "Managing Partner",
+    "industry": "Legal Tech & Professional Services",
+    "email": "jpearson@pearsonlegal.com",
+    "intent_signals": "Requested custom enterprise proposal via contact form.",
+    "notes": "Looking to automate client intake qualification for corporate M&A department.",
+    "budget_status": "Partner capital pool ready ($75k)",
+    "timeline": "1-2 months",
+    "fit_score": 41,
+    "intent_score": 41,
+    "total_score": 82,
+    "tier": "HOT",
+    "next_action": "Route to an Account Executive for an immediate discovery call; prepare a tailored architectural demo and custom enterprise proposal.",
+    "rationale": "The lead scores strongly on both fit (41/50) and intent (41/50). The company size places it in the mid‑market bracket, the contact holds C‑level authority, and the legal‑tech industry matches our Tier 2 ICP. Intent signals are high‑value: a direct proposal request, clear budget, and an urgent 1‑2 month timeline. No disqualifying factors are present, resulting in a total score of 82, which qualifies the lead as HOT and warrants immediate AE engagement.",
+    "evaluation": {
+      "fit_score": 41,
+      "intent_score": 41,
+      "total_score": 82,
+      "tier": "HOT",
+      "fit_breakdown": {
+        "company_size_score": 11,
+        "seniority_score": 19,
+        "industry_fit_score": 11,
+        "fit_summary": "Mid‑market firm (200‑500 employees) aligns well with our target scale, the Managing Partner is a C‑level equivalent with budget authority, and Legal Tech falls into Tier 2 ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 22,
+        "urgency_timeline_score": 10,
+        "budget_readiness_score": 9,
+        "intent_summary": "Requested a custom enterprise proposal (high‑intent), timeline of 1‑2 months (short‑term), and has an approved $75k budget."
+      },
+      "key_positive_signals": [
+        "Custom enterprise proposal request",
+        "Approved $75k budget",
+        "Short‑term (1‑2 mo) implementation timeline",
+        "Senior decision‑maker (Managing Partner)"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores strongly on both fit (41/50) and intent (41/50). The company size places it in the mid‑market bracket, the contact holds C‑level authority, and the legal‑tech industry matches our Tier 2 ICP. Intent signals are high‑value: a direct proposal request, clear budget, and an urgent 1‑2 month timeline. No disqualifying factors are present, resulting in a total score of 82, which qualifies the lead as HOT and warrants immediate AE engagement.",
+      "next_action": "Route to an Account Executive for an immediate discovery call; prepare a tailored architectural demo and custom enterprise proposal.",
+      "sla_response_time": "Immediate (<1 hour)"
+    }
+  },
+  {
+    "id": "L-011",
+    "name": "Hannah Abbott",
+    "company": "ScaleUp Payments",
+    "company_size": "100-250",
+    "job_title": "Head of Growth & Lead Generation",
+    "industry": "FinTech / SaaS",
+    "email": "hannah@scaleuppayments.com",
+    "intent_signals": "Tested our public sandbox environment, invited 3 team members to trial workspace.",
+    "notes": "Current lead triage process is manual in spreadsheets; losing 30% of high-intent leads.",
+    "budget_status": "Discretionary department budget ($40k-$60k)",
+    "timeline": "30-60 days",
+    "fit_score": 40,
+    "intent_score": 37,
+    "total_score": 77,
+    "tier": "WARM",
+    "next_action": "Assign to an SDR to send a personalized email with a relevant FinTech case study, ROI calculator, and invite the prospect to a scheduled group demo within the next 24 hours.",
+    "rationale": "The lead scores well on fit (40/50) due to appropriate company size, seniority, and industry alignment. Intent is also strong (37/50) because of high‑intent product interaction, a short‑term timeline, and a usable budget. The combined score of 77 places the lead in the WARM tier, warranting prompt SDR outreach but not immediate AE handoff.",
+    "evaluation": {
+      "fit_score": 40,
+      "intent_score": 37,
+      "total_score": 77,
+      "tier": "WARM",
+      "fit_breakdown": {
+        "company_size_score": 11,
+        "seniority_score": 15,
+        "industry_fit_score": 14,
+        "fit_summary": "ScaleUp Payments falls in the Mid‑Market/Growth SMB range, the contact is a Head of Growth (Director‑level) with budget authority, and the company operates in FinTech/SaaS, a Tier 1 ICP vertical."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 22,
+        "urgency_timeline_score": 10,
+        "budget_readiness_score": 5,
+        "intent_summary": "The prospect actively tested our sandbox and onboarded teammates, indicating strong product interest (high‑intent). Their project timeline is 30‑60 days (short‑term) and they have a discretionary budget of $40‑60k, showing financial readiness but not yet fully approved."
+      },
+      "key_positive_signals": [
+        "Sandbox testing and team trial invitation",
+        "Director‑level decision influence",
+        "Discretionary budget in the $40‑60k range",
+        "30‑60 day implementation window"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores well on fit (40/50) due to appropriate company size, seniority, and industry alignment. Intent is also strong (37/50) because of high‑intent product interaction, a short‑term timeline, and a usable budget. The combined score of 77 places the lead in the WARM tier, warranting prompt SDR outreach but not immediate AE handoff.",
+      "next_action": "Assign to an SDR to send a personalized email with a relevant FinTech case study, ROI calculator, and invite the prospect to a scheduled group demo within the next 24 hours.",
+      "sla_response_time": "Within 24 hours"
+    }
+  },
+  {
+    "id": "L-003",
+    "name": "Elena Rodriguez",
+    "company": "FinTrust National Bank",
+    "company_size": "10,000+",
+    "job_title": "Head of Enterprise Automation",
+    "industry": "Financial Services & Banking",
+    "email": "elena.rodriguez@fintrustbank.com",
+    "intent_signals": "Downloaded 'SOC-2 Compliance & Security Whitepaper', attended 45-minute technical webinar on AI governance.",
+    "notes": "Evaluating enterprise-ready solutions for Q4 rollout. Security audit required.",
+    "budget_status": "Q4 Enterprise Budget earmarked ($150k+)",
+    "timeline": "3-6 months",
+    "fit_score": 42,
+    "intent_score": 30,
+    "total_score": 72,
+    "tier": "WARM",
+    "next_action": "SDR to contact Elena within 24 hours, share a relevant financial‑services case study and ROI calculator, and schedule a discovery call to explore enterprise automation requirements.",
+    "rationale": "The lead scores highly on fit due to company size, seniority, and industry alignment, yielding 42/50. Intent signals are solid but not yet high‑intent (no demo request), resulting in 30/50. The combined 72 places the lead in the WARM tier, appropriate for SDR outreach with a targeted case study and discovery call invitation.",
+    "evaluation": {
+      "fit_score": 42,
+      "intent_score": 30,
+      "total_score": 72,
+      "tier": "WARM",
+      "fit_breakdown": {
+        "company_size_score": 15,
+        "seniority_score": 16,
+        "industry_fit_score": 11,
+        "fit_summary": "FinTrust National Bank is a large enterprise (10k+ employees) matching the top company size tier, the contact is a Head of Enterprise Automation (Director/Head level) providing strong decision‑making authority, and the financial services industry aligns with our Tier 2 ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 15,
+        "urgency_timeline_score": 6,
+        "budget_readiness_score": 9,
+        "intent_summary": "The prospect downloaded a security whitepaper and attended a technical webinar, indicating mid‑intent engagement. The timeline is medium‑term (3‑6 months) and the budget is earmarked ($150k+), showing strong financial readiness."
+      },
+      "key_positive_signals": [
+        "Enterprise‑scale organization (10k+ employees)",
+        "Senior Head of Enterprise Automation role",
+        "Financial Services industry (Tier 2 ICP)",
+        "Mid‑intent actions: whitepaper download & webinar attendance",
+        "Earmarked $150k+ budget for Q4",
+        "Defined 3‑6 month implementation window"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores highly on fit due to company size, seniority, and industry alignment, yielding 42/50. Intent signals are solid but not yet high‑intent (no demo request), resulting in 30/50. The combined 72 places the lead in the WARM tier, appropriate for SDR outreach with a targeted case study and discovery call invitation.",
+      "next_action": "SDR to contact Elena within 24 hours, share a relevant financial‑services case study and ROI calculator, and schedule a discovery call to explore enterprise automation requirements.",
+      "sla_response_time": "Within 24 hours"
+    }
+  },
+  {
+    "id": "L-006",
+    "name": "Marcus Vance",
+    "company": "Aura Health & Therapeutics",
+    "company_size": "250-500",
+    "job_title": "Director of Commercial Operations",
+    "industry": "Healthcare & Life Sciences",
+    "email": "m.vance@aurahealth.com",
+    "intent_signals": "Filled out 'Calculate ROI' calculator on pricing page, viewed case studies twice.",
+    "notes": "HIPAA compliance is a strict hard requirement. Needs custom integration with Salesforce.",
+    "budget_status": "Budget under review for fiscal year 2026",
+    "timeline": "1-3 months",
+    "fit_score": 37,
+    "intent_score": 29,
+    "total_score": 66,
+    "tier": "WARM",
+    "next_action": "SDR to send a tailored healthcare case study, ROI recap, and propose a 30‑minute discovery call to discuss integration with Salesforce and HIPAA compliance requirements.",
+    "rationale": "The lead scores solidly on fit due to appropriate company size, seniority, and industry. Intent signals show genuine interest (ROI tool) and a realistic short‑term timeline, though budget is still under review, limiting the intent score. Overall total places the lead in the WARM tier, warranting prompt SDR outreach.",
+    "evaluation": {
+      "fit_score": 37,
+      "intent_score": 29,
+      "total_score": 66,
+      "tier": "WARM",
+      "fit_breakdown": {
+        "company_size_score": 11,
+        "seniority_score": 15,
+        "industry_fit_score": 11,
+        "fit_summary": "Mid‑market company (250‑500 employees) aligns well with our target scale, Director‑level title provides strong buying influence, and Healthcare is a Tier 2 ICP with good product relevance."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 14,
+        "urgency_timeline_score": 10,
+        "budget_readiness_score": 5,
+        "intent_summary": "Engaged via ROI calculator and case‑study views (mid‑intent), expects implementation in 1‑3 months (short‑term), and budget is under review (discretionary)."
+      },
+      "key_positive_signals": [
+        "ROI calculator completion",
+        "Case‑study views",
+        "Director of Commercial Operations title",
+        "Healthcare industry alignment",
+        "1‑3 month implementation window"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores solidly on fit due to appropriate company size, seniority, and industry. Intent signals show genuine interest (ROI tool) and a realistic short‑term timeline, though budget is still under review, limiting the intent score. Overall total places the lead in the WARM tier, warranting prompt SDR outreach.",
+      "next_action": "SDR to send a tailored healthcare case study, ROI recap, and propose a 30‑minute discovery call to discuss integration with Salesforce and HIPAA compliance requirements.",
+      "sla_response_time": "Within 24 hours"
+    }
+  },
+  {
+    "id": "L-019",
+    "name": "Claire Redfield",
+    "company": "TerraSave Environmental Solutions",
+    "company_size": "100-250",
+    "job_title": "Director of Operations",
+    "industry": "CleanTech / Sustainability",
+    "email": "credfield@terrasave.org",
+    "intent_signals": "Attended product webinar, asked 3 questions in Q&A about CRM webhooks.",
+    "notes": "Looking to streamline partner inquiry routing for non-profit and commercial divisions.",
+    "budget_status": "Grant & commercial operations budget ($35k)",
+    "timeline": "2-4 months",
+    "fit_score": 32,
+    "intent_score": 30,
+    "total_score": 62,
+    "tier": "WARM",
+    "next_action": "SDR to send a targeted CleanTech case study and ROI calculator, then propose a scheduled group demo within the next 2‑3 days.",
+    "rationale": "The lead scores well on fit due to seniority and acceptable company size, though industry alignment is only adjacent. Intent signals are moderate: the prospect engaged in a webinar and has a clear 2‑4 month timeline, but the budget is below the earmarked threshold. The combined score of 62 places the lead in the WARM tier, warranting SDR outreach rather than immediate AE handoff.",
+    "evaluation": {
+      "fit_score": 32,
+      "intent_score": 30,
+      "total_score": 62,
+      "tier": "WARM",
+      "fit_breakdown": {
+        "company_size_score": 11,
+        "seniority_score": 15,
+        "industry_fit_score": 6,
+        "fit_summary": "Mid‑market employee count (100‑250) yields a solid size score, Director of Operations provides strong decision‑making authority, and CleanTech aligns as an adjacent (Tier 3) industry."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 14,
+        "urgency_timeline_score": 11,
+        "budget_readiness_score": 5,
+        "intent_summary": "Webinar attendance with active Q&A shows mid‑intent engagement, a 2‑4 month implementation window maps to short‑term urgency, and a $35k grant/commercial budget places the lead in discretionary funding."
+      },
+      "key_positive_signals": [
+        "Director‑level stakeholder",
+        "Attended product webinar and asked detailed technical questions",
+        "Mid‑market company size",
+        "Allocated grant budget for the project"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores well on fit due to seniority and acceptable company size, though industry alignment is only adjacent. Intent signals are moderate: the prospect engaged in a webinar and has a clear 2‑4 month timeline, but the budget is below the earmarked threshold. The combined score of 62 places the lead in the WARM tier, warranting SDR outreach rather than immediate AE handoff.",
+      "next_action": "SDR to send a targeted CleanTech case study and ROI calculator, then propose a scheduled group demo within the next 2‑3 days.",
+      "sla_response_time": "Within 24 hours"
+    }
+  },
+  {
+    "id": "L-016",
+    "name": "Liam Murphy",
+    "company": "Apex Dynamics Robotics",
+    "company_size": "50-200",
+    "job_title": "Lead Software Architect",
+    "industry": "Robotics & Industrial Automation",
+    "email": "lmurphy@apexdynamics.tech",
+    "intent_signals": "Cloned public GitHub quickstart demo, tested SDK with mock inputs.",
+    "notes": "Strong developer interest. Looking to present solution to VP of Product next Tuesday.",
+    "budget_status": "Technical evaluation phase; needs managerial sign-off",
+    "timeline": "1-3 months",
+    "fit_score": 19,
+    "intent_score": 28,
+    "total_score": 47,
+    "tier": "COLD",
+    "next_action": "Enroll the lead in an industry‑specific nurture drip (technical case study, ROI calculator) and schedule a follow‑up outreach in 7 days to reassess budget approval and decision‑maker involvement.",
+    "rationale": "The lead scores low on fit due to its SMB size, non‑executive seniority, and only adjacent industry relevance. Intent signals are moderate: the prospect is actively testing the product but has no approved budget and is still in the evaluation phase. The combined score of 47 places the lead in the COLD tier, meaning it should enter an automated nurture flow while remaining on the radar for future qualification.",
+    "evaluation": {
+      "fit_score": 19,
+      "intent_score": 28,
+      "total_score": 47,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 8,
+        "seniority_score": 5,
+        "industry_fit_score": 6,
+        "fit_summary": "Apex Dynamics Robotics falls in the Growth SMB range (50‑199 employees) giving a modest score. The Lead Software Architect role is a senior individual contributor, not a budget owner, resulting in a low seniority score. Robotics & Industrial Automation is an adjacent vertical (Tier 3), so it receives a modest industry fit score."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 13,
+        "urgency_timeline_score": 10,
+        "budget_readiness_score": 5,
+        "intent_summary": "The prospect has cloned a public GitHub demo and tested the SDK, indicating a mid‑intent technical evaluation. The stated timeline of 1‑3 months maps to a short‑term window. Budget is still under review and requires managerial sign‑off, so the budget readiness is low."
+      },
+      "key_positive_signals": [
+        "Technical hands‑on testing of SDK",
+        "Upcoming internal presentation to VP of Product",
+        "Short‑term (1‑3 month) evaluation timeline"
+      ],
+      "red_flags": [],
+      "rationale": "The lead scores low on fit due to its SMB size, non‑executive seniority, and only adjacent industry relevance. Intent signals are moderate: the prospect is actively testing the product but has no approved budget and is still in the evaluation phase. The combined score of 47 places the lead in the COLD tier, meaning it should enter an automated nurture flow while remaining on the radar for future qualification.",
+      "next_action": "Enroll the lead in an industry‑specific nurture drip (technical case study, ROI calculator) and schedule a follow‑up outreach in 7 days to reassess budget approval and decision‑maker involvement.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-014",
+    "name": "Tom Haverford",
+    "company": "Entertainment 720",
+    "company_size": "1-10",
+    "job_title": "Co-Founder & Idea Guy",
+    "industry": "Media & Event Planning",
+    "email": "tom@entertainment720.com",
+    "intent_signals": "Clicked pricing page, submitted inquiry: 'Can your AI agent do everything for us for $10/month?'",
+    "notes": "Vague business model, high churn risk, unviable economics.",
+    "budget_status": "Micro budget (<$100/mo)",
+    "timeline": "Immediate curiosity",
+    "fit_score": 27,
+    "intent_score": 8,
+    "total_score": 35,
+    "tier": "COLD",
+    "next_action": "Enroll the lead in an automated nurture sequence that includes a product overview, pricing tiers, and a low‑touch invitation to a 15‑minute discovery call if budget or need evolves.",
+    "rationale": "While the decision‑maker holds C‑level authority, the company size and industry alignment are weak, and the budget is far below the threshold for a viable enterprise deal. Intent signals are minimal—only a pricing page click and a non‑committal inquiry—resulting in a low intent score. The combination of low fit and intent yields a total of 35, placing the lead in the COLD tier.",
+    "evaluation": {
+      "fit_score": 27,
+      "intent_score": 8,
+      "total_score": 35,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 2,
+        "seniority_score": 19,
+        "industry_fit_score": 6,
+        "fit_summary": "The prospect is a micro‑size company (1‑10 employees) giving a low score. The co‑founder role qualifies as C‑level, earning a high seniority score. The industry (Media & Event Planning) is adjacent to our core ICP, resulting in a modest industry fit score."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 5,
+        "urgency_timeline_score": 2,
+        "budget_readiness_score": 1,
+        "intent_summary": "The lead clicked the pricing page and submitted a vague inquiry, indicating only low‑to‑mid intent. Timeline is described as \"immediate curiosity\" but lacks a concrete project deadline, so urgency is low. Budget is micro (<$100/mo), placing it in the no‑budget range."
+      },
+      "key_positive_signals": [
+        "Clicked pricing page",
+        "Expressed immediate curiosity"
+      ],
+      "red_flags": [
+        "Micro company size (1‑10 employees)",
+        "Micro budget (<$100/mo)",
+        "Vague business model and high churn risk",
+        "Low‑value inquiry asking for $10/mo service"
+      ],
+      "rationale": "While the decision‑maker holds C‑level authority, the company size and industry alignment are weak, and the budget is far below the threshold for a viable enterprise deal. Intent signals are minimal—only a pricing page click and a non‑committal inquiry—resulting in a low intent score. The combination of low fit and intent yields a total of 35, placing the lead in the COLD tier.",
+      "next_action": "Enroll the lead in an automated nurture sequence that includes a product overview, pricing tiers, and a low‑touch invitation to a 15‑minute discovery call if budget or need evolves.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-004",
+    "name": "David Kim",
+    "company": "CloudScape Systems",
+    "company_size": "50-200",
+    "job_title": "Junior DevOps Engineer",
+    "industry": "Technology",
+    "email": "dkim@cloudscape.dev",
+    "intent_signals": "Read a blog post on 'Rate Limiting Algorithms' and starred GitHub repo.",
+    "notes": "Individual contributor exploring open-source tools for personal learning and a hobby project.",
+    "budget_status": "No purchasing authority",
+    "timeline": "Browsing / Learning",
+    "fit_score": 24,
+    "intent_score": 4,
+    "total_score": 28,
+    "tier": "COLD",
+    "next_action": "Enroll lead in automated nurture drip with technical education content and schedule a check‑in in 30 days to reassess interest.",
+    "rationale": "The prospect scores low on both fit and intent due to a junior individual‑contributor role, modest company size, and purely informational engagement. While the industry aligns, the lack of authority, budget, and urgency keep the total score at 28, placing the lead in the COLD tier.",
+    "evaluation": {
+      "fit_score": 24,
+      "intent_score": 4,
+      "total_score": 28,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 7,
+        "seniority_score": 4,
+        "industry_fit_score": 13,
+        "fit_summary": "Mid-size growth SMB (50‑199 employees) provides modest seat potential, junior engineer role offers limited decision authority, but the company operates in a technology sector that aligns with Tier 1 ICP."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 3,
+        "urgency_timeline_score": 1,
+        "budget_readiness_score": 0,
+        "intent_summary": "Only low‑intent activity (blog read, GitHub star) with no defined purchase timeline and no budget authority."
+      },
+      "key_positive_signals": [
+        "Read technical blog post on rate limiting",
+        "Starred relevant GitHub repository"
+      ],
+      "red_flags": [
+        "Low decision authority",
+        "No budget commitment"
+      ],
+      "rationale": "The prospect scores low on both fit and intent due to a junior individual‑contributor role, modest company size, and purely informational engagement. While the industry aligns, the lack of authority, budget, and urgency keep the total score at 28, placing the lead in the COLD tier.",
+      "next_action": "Enroll lead in automated nurture drip with technical education content and schedule a check‑in in 30 days to reassess interest.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-012",
+    "name": "Victor Creed",
+    "company": "LeadGen Competitor Corp",
+    "company_size": "50-200",
+    "job_title": "Product Marketing Specialist",
+    "industry": "Competitor / Direct Rival",
+    "email": "vcreed@competitorcorp.com",
+    "intent_signals": "Visited documentation site and downloaded all public API specification docs.",
+    "notes": "Competitor domain detected. Probing feature matrix and pricing tiers.",
+    "budget_status": "N/A (Competitive intelligence)",
+    "timeline": "N/A",
+    "fit_score": 13,
+    "intent_score": 14,
+    "total_score": 27,
+    "tier": "COLD",
+    "next_action": "Log the lead as competitor intelligence and assign to the Competitive Intelligence team for monitoring; do not forward to sales or SDR.",
+    "rationale": "The lead scores low on fit due to limited company size, non‑executive role, and competitor industry, resulting in a fit score of 13/50. Intent is modest; while there is technical interest, the absence of timeline and budget reduces the intent score to 14/50. The combined total of 27 places the lead in the COLD tier. Red flags (competitor status, no budget, no urgency) further justify routing the lead away from active sales outreach.",
+    "evaluation": {
+      "fit_score": 13,
+      "intent_score": 14,
+      "total_score": 27,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 8,
+        "seniority_score": 5,
+        "industry_fit_score": 0,
+        "fit_summary": "Company falls in the Growth SMB range (50‑199 employees) giving a modest score. Job title is a specialist, classified as individual contributor with limited purchasing authority. Industry is a direct competitor, which scores zero and triggers a red flag."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 14,
+        "urgency_timeline_score": 0,
+        "budget_readiness_score": 0,
+        "intent_summary": "The prospect downloaded full API documentation, indicating technical curiosity (mid‑intent). No timeline or budget information is provided, resulting in zero points for urgency and budget readiness."
+      },
+      "key_positive_signals": [
+        "Downloaded full public API specification docs",
+        "Visited documentation site multiple times"
+      ],
+      "red_flags": [
+        "Competitor domain detected (direct rival)",
+        "No disclosed budget or timeline",
+        "Intent appears informational rather than purchasing"
+      ],
+      "rationale": "The lead scores low on fit due to limited company size, non‑executive role, and competitor industry, resulting in a fit score of 13/50. Intent is modest; while there is technical interest, the absence of timeline and budget reduces the intent score to 14/50. The combined total of 27 places the lead in the COLD tier. Red flags (competitor status, no budget, no urgency) further justify routing the lead away from active sales outreach.",
+      "next_action": "Log the lead as competitor intelligence and assign to the Competitive Intelligence team for monitoring; do not forward to sales or SDR.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-008",
+    "name": "Lucas Meyer",
+    "company": "Meyer Woodworking Studio",
+    "company_size": "1-5",
+    "job_title": "Sole Proprietor",
+    "industry": "Crafts & Manufacturing",
+    "email": "lucas@meyerwoodcraft.de",
+    "intent_signals": "Clicked an ad on Instagram regarding productivity software.",
+    "notes": "Looking for free invoice templates for custom furniture orders.",
+    "budget_status": "Zero budget",
+    "timeline": "None",
+    "fit_score": 23,
+    "intent_score": 2,
+    "total_score": 25,
+    "tier": "COLD",
+    "next_action": "Add to automated 7‑day nurture sequence delivering free invoice template resources and productivity‑software educational content.",
+    "rationale": "The prospect matches on seniority but fails on company scale, industry relevance, budget, timeline, and engagement depth. Combined fit (23) and intent (2) yield a total of 25, placing the lead in the COLD tier. Automated nurturing is appropriate.",
+    "evaluation": {
+      "fit_score": 23,
+      "intent_score": 2,
+      "total_score": 25,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 0,
+        "seniority_score": 18,
+        "industry_fit_score": 5,
+        "fit_summary": "Micro‑size company (1‑5 employees) scores 0. Founder/sole proprietor receives high seniority points (18). Industry (Crafts & Manufacturing) is Tier 3 adjacent, earning modest points (5)."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 2,
+        "urgency_timeline_score": 0,
+        "budget_readiness_score": 0,
+        "intent_summary": "Only a low‑intent Instagram ad click (2). No defined purchase timeline (0) and zero budget (0)."
+      },
+      "key_positive_signals": [
+        "Founder authority",
+        "Expressed interest in productivity software"
+      ],
+      "red_flags": [
+        "Micro company with no budget",
+        "No timeline or urgency",
+        "Low‑intent engagement"
+      ],
+      "rationale": "The prospect matches on seniority but fails on company scale, industry relevance, budget, timeline, and engagement depth. Combined fit (23) and intent (2) yield a total of 25, placing the lead in the COLD tier. Automated nurturing is appropriate.",
+      "next_action": "Add to automated 7‑day nurture sequence delivering free invoice template resources and productivity‑software educational content.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-010",
+    "name": "Kevin O'Connor",
+    "company": "Boston University",
+    "company_size": "1000-5000",
+    "job_title": "Graduate Research Assistant",
+    "industry": "Higher Education & Academia",
+    "email": "koconnor@bu.edu",
+    "intent_signals": "Filled contact form asking for free academic research API keys for thesis paper.",
+    "notes": "Student conducting academic benchmarking on LLM tools.",
+    "budget_status": "Seeking 100% educational grant/discount",
+    "timeline": "Academic semester",
+    "fit_score": 15,
+    "intent_score": 9,
+    "total_score": 24,
+    "tier": "COLD",
+    "next_action": "Add the lead to the academic‑partner nurture flow and send information about research licensing options; do not route to an AE at this time.",
+    "rationale": "While the organization size is strong, the contact lacks authority and the industry is not a target vertical. Intent signals are weak, focused on free academic access with no budget and only a medium‑term timeline. The combined fit and intent scores place the lead firmly in the COLD tier, warranting automated nurturing rather than direct sales outreach.",
+    "evaluation": {
+      "fit_score": 15,
+      "intent_score": 9,
+      "total_score": 24,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 14,
+        "seniority_score": 0,
+        "industry_fit_score": 1,
+        "fit_summary": "Boston University is an enterprise‑size organization, which gives a high company‑size score. However, the contact is a graduate research assistant (student) with no purchasing authority, and the higher‑education sector falls outside our core ICP, resulting in minimal fit."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 2,
+        "urgency_timeline_score": 6,
+        "budget_readiness_score": 1,
+        "intent_summary": "The lead submitted a form requesting free academic API keys, indicating low‑intent engagement. The timeline aligns with an academic semester (medium‑term), and the budget is effectively zero as they seek a grant/discount."
+      },
+      "key_positive_signals": [
+        "Enterprise‑scale institution",
+        "Clear research use case"
+      ],
+      "red_flags": [
+        "Student / non‑decision maker",
+        "Request for free academic usage (non‑commercial)",
+        "No allocated budget"
+      ],
+      "rationale": "While the organization size is strong, the contact lacks authority and the industry is not a target vertical. Intent signals are weak, focused on free academic access with no budget and only a medium‑term timeline. The combined fit and intent scores place the lead firmly in the COLD tier, warranting automated nurturing rather than direct sales outreach.",
+      "next_action": "Add the lead to the academic‑partner nurture flow and send information about research licensing options; do not route to an AE at this time.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-018",
+    "name": "Carlos Gomez",
+    "company": "Gomez Landscaping LLC",
+    "company_size": "1-10",
+    "job_title": "Owner",
+    "industry": "Home Services",
+    "email": "carlos@gomezlandscapes.net",
+    "intent_signals": "Filled out web contact form with: 'Looking for lawn mowing quote software.'",
+    "notes": "Misunderstood company product offering. Completely outside B2B software domain.",
+    "budget_status": "Irrelevant",
+    "timeline": "Irrelevant",
+    "fit_score": 20,
+    "intent_score": 1,
+    "total_score": 21,
+    "tier": "COLD",
+    "next_action": "Send an automated acknowledgment email and enroll the lead in a generic 7‑day nurture drip; flag the record as non‑qualifying for active SDR outreach.",
+    "rationale": "While the contact holds senior authority, the company is extremely small and operates in a non‑ICP vertical. The intent signals are weak, with only a low‑intent form submission and no budget or timeline. Combined fit and intent scores place the lead firmly in the COLD tier, indicating it is not a sales‑qualified opportunity at this time.",
+    "evaluation": {
+      "fit_score": 20,
+      "intent_score": 1,
+      "total_score": 21,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 2,
+        "seniority_score": 18,
+        "industry_fit_score": 0,
+        "fit_summary": "The prospect is a micro‑business (1‑10 employees) giving a low company size score. The contact is the Owner, which maps to C‑level seniority and earns a high seniority score. However, the industry (Home Services) falls outside our ICP, resulting in no industry fit points."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 1,
+        "urgency_timeline_score": 0,
+        "budget_readiness_score": 0,
+        "intent_summary": "The lead only submitted a generic web contact form requesting lawn‑mowing software, indicating minimal engagement and low buying intent. No timeline or budget information was provided."
+      },
+      "key_positive_signals": [
+        "Owner-level contact (high decision‑maker authority)"
+      ],
+      "red_flags": [
+        "Off‑target industry (Home Services)",
+        "Product request unrelated to B2B software offering",
+        "No disclosed budget or timeline"
+      ],
+      "rationale": "While the contact holds senior authority, the company is extremely small and operates in a non‑ICP vertical. The intent signals are weak, with only a low‑intent form submission and no budget or timeline. Combined fit and intent scores place the lead firmly in the COLD tier, indicating it is not a sales‑qualified opportunity at this time.",
+      "next_action": "Send an automated acknowledgment email and enroll the lead in a generic 7‑day nurture drip; flag the record as non‑qualifying for active SDR outreach.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-002",
+    "name": "Mike Ross",
+    "company": "Cornerstone Bakery & Cafe",
+    "company_size": "1-10",
+    "job_title": "Owner / Manager",
+    "industry": "Food & Beverage / Retail",
+    "email": "mike@cornerstonebakery.local",
+    "intent_signals": "Subscribed to monthly general newsletter from a blog post.",
+    "notes": "Looking for free point-of-sale software tips. No software engineering team.",
+    "budget_status": "None / Looking for free tier",
+    "timeline": "No immediate plans",
+    "fit_score": 13,
+    "intent_score": 2,
+    "total_score": 15,
+    "tier": "COLD",
+    "next_action": "Enroll lead in automated 7‑day nurture drip with educational content on low‑cost POS solutions and invite to request a free trial when ready.",
+    "rationale": "The lead scores very low on both fit and intent. The company size and industry are far from the target ICP, and while the contact holds authority, the lack of budget, urgency, and only passive engagement place this prospect in the cold segment. Red flags further diminish commercial viability.",
+    "evaluation": {
+      "fit_score": 13,
+      "intent_score": 2,
+      "total_score": 15,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 2,
+        "seniority_score": 10,
+        "industry_fit_score": 1,
+        "fit_summary": "Micro-sized bakery (1-10 employees) yields low scale score; owner/manager provides moderate authority; industry (Food & Beverage/Retail) is outside core ICP, resulting in minimal fit."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 2,
+        "urgency_timeline_score": 0,
+        "budget_readiness_score": 0,
+        "intent_summary": "Only passive newsletter subscription; no defined purchase timeline; explicitly seeking free tier with no budget."
+      },
+      "key_positive_signals": [
+        "Owner/Manager has decision authority for the business",
+        "Subscribed to company newsletter indicating baseline interest"
+      ],
+      "red_flags": [
+        "Looking for free tier only, no budget allocated",
+        "Micro business with limited expansion potential",
+        "Personal/non‑corporate email domain",
+        "No immediate implementation timeline"
+      ],
+      "rationale": "The lead scores very low on both fit and intent. The company size and industry are far from the target ICP, and while the contact holds authority, the lack of budget, urgency, and only passive engagement place this prospect in the cold segment. Red flags further diminish commercial viability.",
+      "next_action": "Enroll lead in automated 7‑day nurture drip with educational content on low‑cost POS solutions and invite to request a free trial when ready.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  },
+  {
+    "id": "L-020",
+    "name": "Anonymous Inbound",
+    "company": "Unknown / Temp Mail",
+    "company_size": "Unknown",
+    "job_title": "Unknown",
+    "industry": "Unknown",
+    "email": "user984729@10minutemail.com",
+    "intent_signals": "Submitted blank contact form with string 'test1234'.",
+    "notes": "Spam bot or test submission from temporary email address.",
+    "budget_status": "None",
+    "timeline": "None",
+    "fit_score": 0,
+    "intent_score": 0,
+    "total_score": 0,
+    "tier": "COLD",
+    "next_action": "Mark lead as disqualified, add to suppression list, and exclude from SDR/AE queues.",
+    "rationale": "All fit and intent criteria receive zero points due to lack of verifiable firmographic data, authority, industry relevance, and any buying signals. Red flags (temporary email, unknown company, blank submission) trigger automatic disqualification. The aggregate score is 0, placing the lead in the COLD tier with no sales outreach required.",
+    "evaluation": {
+      "fit_score": 0,
+      "intent_score": 0,
+      "total_score": 0,
+      "tier": "COLD",
+      "fit_breakdown": {
+        "company_size_score": 0,
+        "seniority_score": 0,
+        "industry_fit_score": 0,
+        "fit_summary": "Company size unknown (treated as 0), job title unknown (no authority), industry unknown (no ICP alignment)."
+      },
+      "intent_breakdown": {
+        "behavior_signal_score": 0,
+        "urgency_timeline_score": 0,
+        "budget_readiness_score": 0,
+        "intent_summary": "Submitted a blank contact form with no meaningful engagement, no timeline, and no budget indication."
+      },
+      "key_positive_signals": [],
+      "red_flags": [
+        "Disposable email domain (10minutemail.com)",
+        "Unknown / temp mail company",
+        "Blank form submission – likely spam bot"
+      ],
+      "rationale": "All fit and intent criteria receive zero points due to lack of verifiable firmographic data, authority, industry relevance, and any buying signals. Red flags (temporary email, unknown company, blank submission) trigger automatic disqualification. The aggregate score is 0, placing the lead in the COLD tier with no sales outreach required.",
+      "next_action": "Mark lead as disqualified, add to suppression list, and exclude from SDR/AE queues.",
+      "sla_response_time": "Automated Nurture (7 days)"
+    }
+  }
+]
