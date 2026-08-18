@@ -234,6 +234,7 @@ For full technical analysis, see [TRADEOFFS.md](file:///c:/Prakhyath_Shetty/lead
 ---
 
 ## 👤 Author
-- **Candidate:** Junior AI Research Associate Applicant
+- **Candidate:** Prakhyath Shetty ([@Prakhyath1](https://github.com/Prakhyath1))
+- **Role Applied:** Junior AI Research Associate
 - **Challenge:** Rooman 24-Hour AI Agent Challenge
 - **License:** MIT
